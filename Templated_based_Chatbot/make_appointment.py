@@ -1,0 +1,1 @@
+# Try using json stuff? Store transcripts in db so later Verifiable by doctor, grep when run, run bash script to start
