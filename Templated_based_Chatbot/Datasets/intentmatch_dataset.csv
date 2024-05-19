@@ -8,33 +8,36 @@ What is my name,name
 Change my name,name
 Who are you talking to?,name
 What's my name?,name
-What can you do?,help
-Can you help me?,help
-Can you give me medicine?,help
-How do you work,help
-What can you do for me?,help
-How do you diagnose me?,help
 Can you help me with my appointment?,appointment
 Make me an appointment,appointment
-Can you give me a doctor's appointment?, appointment
+Can you give me a doctor's appointment?,appointment
 Can I cancel my appointment?,appointment
 Can I change my appointment?,appointment
 Can I reschedule my appointment?,appointment
+I want to make an appointment,appointment
+Make a GP appointment,appointment
+Can I make a doctors appointment,appointment
 I need an appointment for tomorrow,appointment
 I'm going to give you my symptoms,symptoms
 Can I tell my symptoms?,symptoms
 I would like to tell you my symptoms,symptoms
 Symptoms,symptoms
-I think i have a cold,symptoms
-I am sick, can you tell me what I have?,symptoms
-Can you diagnose me?,symptoms
+I think i m sick,symptoms
+I feel unwell,symptoms
+Diagnose me,symptoms
+I will tell you my symptoms and you diagnose my illness,symptoms
+I feel awful,symptoms
+I feel ill,symptoms
+I want a diagnosis,symptoms
+Here are my symptoms,symptoms
+I am sick,symptoms
+Can you diagnose me?,exit
 Goodbye,exit
 Quit,exit
 Bye,exit
 im going to leave,exit
 I'm finished now,exit
 Adios,exit
-Arrivederci ,exit
 Byebye,exit
 I'm going to go,exit
 Can I leave now?,exit
@@ -42,3 +45,25 @@ Stop,exit
 I want you to go,exit
 Exit,exit
 I want to leave,exit
+I need some information,information
+Tell me more about ,information
+More information on,information
+Fungal infection,information
+Allergy,information
+Heart Burn Acid Reflux (GERD),information
+Chronic cholestasis,information
+Drug Reaction,information
+Peptic ulcer disease,information
+Diabetes,information
+Gastroenteritis (often Food Poisoning),information
+Bronchial Asthma,information
+Migraine,information
+Jaundice,information
+Malaria,information
+Chicken pox,information
+hepatitis A,information
+Alcoholic hepatitis,information
+Tuberculosis,information
+Give me treatment advice,information
+Give me more information,information
+I need more information,information

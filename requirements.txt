@@ -1,4 +1,0 @@
-pandas~=2.2.2
-nltk~=3.8.1
-joblib~=1.4.2
-spacy~=3.7.4

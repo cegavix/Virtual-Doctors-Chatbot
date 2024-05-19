@@ -2,13 +2,14 @@ import csv
 import string
 import nltk
 
+
 # if used for question answers, preprocess the text to get keywords
 def make_arrays_from_csv(filepath):
     names = []
     responses = []
     # filepath = 'datasets/QA_dataset.csv'
     # file_path = 'datasets/intentmatch_dataset.csv'
-    with (open(filepath, 'r', encoding='utf8') as file):
+    with (open(filepath, 'r', encoding='latin-1') as file):
         # Create a CSV reader object
         csv_reader = csv.reader(file)
         next(csv_reader)
@@ -57,3 +58,4 @@ def set_name(my_input):
         elif len(pos_tags) == 1:
             name = entity[0]
     return name
+
