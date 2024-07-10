@@ -1,4 +1,4 @@
-## Welcome to my 2023-24 DIA Coursework!!
+## A Chatbot to simulate patient-physician general practitioner (GP) appointments
 Here u will find a sample transcript, demo videos, my code for generating all 4 intelligent agents (+ the decision tree) and their relevant datasets.
 
 ### Setup
