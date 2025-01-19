@@ -1,10 +1,12 @@
 import pickle
 import random
 
+import pandas as pd
+import json
+
 import torch
 from transformers import BertForSequenceClassification, BertTokenizer
 
-## CAUTION: DIRECTORYS ARE SET TO BE ACCESSED FROM ROOT OF REPO!! FOR USE IN APP.PY
 def get_prediction(text):
     # Encode the sentence with special tokens and padding
     encoded_dict = tokenizer.encode_plus(
@@ -57,8 +59,6 @@ with open('Transfer_learning_Chatbot/BERT/label_encoder.pkl', 'rb') as file:
 model = BertForSequenceClassification.from_pretrained("Transfer_learning_Chatbot/BERT/bert_model")
 tokenizer = BertTokenizer.from_pretrained("Transfer_learning_Chatbot/BERT/bert_model")
 
-import pandas as pd
-import json
 
 with open("Transfer_learning_Chatbot/BERT/TUSHARKHETE_intents.json", "r") as read_file:
     data = (json.load(read_file))['intents']
