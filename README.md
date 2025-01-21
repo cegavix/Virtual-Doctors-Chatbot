@@ -41,11 +41,13 @@ Transformer-Based Chatbot
 ![Screenshot 2025-01-17 at 03 21 48](https://github.com/user-attachments/assets/1f15f55b-04a8-41d0-82d1-977d2e3a5b8c)
 
 
+### Results 
+
+![Screenshot 2025-01-21 at 13 36 02](https://github.com/user-attachments/assets/ce5a84d1-869e-45e1-ae52-8bab5bc7eb47)
+
 ### Demo Videos!
 
-
 https://github.com/cegavix/Virtual-Doctors-Chatbot/assets/98366333/ac5d795b-cb9c-471a-aba0-a4a01195d6ef
-
 
 https://github.com/cegavix/Virtual-Doctors-Chatbot/assets/98366333/76301717-93b5-4081-8b5b-e5d244e9ca6e
 
