@@ -29,6 +29,10 @@ ALIGN the versions of  torch and transformers to make sure everything is up to d
 
 ![Screenshot 2025-01-21 at 11 59 21](https://github.com/user-attachments/assets/cbddff9e-4b22-4cae-8b43-db39cb1df8a0)
 
+# The 2 Technical Approaches
+![Screenshot 2025-01-21 at 15 53 24](https://github.com/user-attachments/assets/91f1ad49-77fa-4645-96f6-abb376a20cc8)
+
+
 ## Concepts and Theory
  ![Screenshot 2025-01-21 at 13 01 33](https://github.com/user-attachments/assets/5d0d3f46-6c1f-4c15-af09-8a1b70ebbd23)
 
