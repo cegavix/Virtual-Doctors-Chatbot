@@ -34,12 +34,11 @@ ALIGN the versions of  torch and transformers to make sure everything is up to d
 
 ## Use Case Diagrams of the 2 Chatbots
 NLP-Based Chatbot
-
-![Screenshot 2025-01-17 at 03 21 48](https://github.com/user-attachments/assets/1f15f55b-04a8-41d0-82d1-977d2e3a5b8c)
+![Screenshot 2025-01-17 at 03 21 23](https://github.com/user-attachments/assets/461084b9-31b1-4968-94f0-ff659c541b4b)
 
 Transformer-Based Chatbot
 
-[Screenshot 2025-01-17 at 03 21 23](https://github.com/user-attachments/assets/461084b9-31b1-4968-94f0-ff659c541b4b)
+![Screenshot 2025-01-17 at 03 21 48](https://github.com/user-attachments/assets/1f15f55b-04a8-41d0-82d1-977d2e3a5b8c)
 
 
 ### Demo Videos!
