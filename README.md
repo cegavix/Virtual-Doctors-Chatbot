@@ -1,4 +1,4 @@
-![Screenshot 2025-01-21 at 13 01 33](https://github.com/user-attachments/assets/69c65edb-f7eb-4dab-8bcc-b5d0560a3a4b)## A Chatbot to simulate patient-physician general practitioner (GP) appointments
+## A Chatbot to simulate patient-physician general practitioner (GP) appointments
 Here u will find a sample transcript, demo videos, my code for generating all 4 intelligent agents (+ the decision tree) and their relevant datasets.
 
 ### Setup
