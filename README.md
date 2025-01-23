@@ -5,9 +5,8 @@ Here u will find a sample transcript, demo videos, my code for generating all 4 
 
 1. Clone the repository
 2. Install the required packages on a virtual environment
-- Example bash script, for MacOS/Linux:
-
-
+- Example bash script, for MacOS/linux:
+  
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -15,6 +14,14 @@ pip install -r requirements.txt
 ```
 
 The transformers module can be really finnicky with the accelerate version, if this happens update all their dependencies too.
+
+## Containerization & Deployment 
+UI Implemented in docker but only front end at the moment: 
+
+```bash 
+docker pull constancevielma/myflaskapp
+```
+
 
 ## Run Instructions
 
